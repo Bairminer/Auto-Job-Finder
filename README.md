@@ -1,5 +1,6 @@
 # Auto Job Finder - Indeed
 ![Jobs](Images/jobs.png)
+
 Tired of looking through hundreds of jobs to find ones with a good fit? Let a computer do it for you, just like how recruiters screen applicants! This program combs through pages of Indeed search results to find job listings that fit your skills, and can also reject ones that have keywords you don't want.
 
 ## Instructions
