@@ -1,0 +1,14 @@
+embedded
+hardware
+PCB
+arduino
+firmware
+python
+c++
+eagle
+circuit board
+AVR
+ARM
+debugging
+electrical engineering
+raspberry pi
